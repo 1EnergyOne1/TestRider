@@ -1,0 +1,12 @@
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\bin\Debug\net8.0\GymManagement.Application.deps.json
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\bin\Debug\net8.0\GymManagement.Application.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\bin\Debug\net8.0\GymManagement.Application.pdb
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.AssemblyInfoInputs.cache
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.AssemblyInfo.cs
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.sourcelink.json
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\refint\GymManagement.Application.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.pdb
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\ref\GymManagement.Application.dll
