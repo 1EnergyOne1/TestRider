@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "d+AWn7V14Gs=",
+  "dgSpecHash": "eooJNGixhss=",
   "success": true,
   "projectFilePath": "C:\\Users\\energ\\RiderProjects\\TestRider\\GymTestProjectCleanArc\\GymManagement.Api\\GymManagement.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\energ\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\energ\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\energ\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\energ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512",
     "C:\\Users\\energ\\.nuget\\packages\\microsoft.openapi\\1.6.25\\microsoft.openapi.1.6.25.nupkg.sha512",
     "C:\\Users\\energ\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.6\\swashbuckle.aspnetcore.swagger.9.0.6.nupkg.sha512",
     "C:\\Users\\energ\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.6\\swashbuckle.aspnetcore.swaggergen.9.0.6.nupkg.sha512",

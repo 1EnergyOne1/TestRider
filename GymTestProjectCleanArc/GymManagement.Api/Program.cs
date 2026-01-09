@@ -1,10 +1,15 @@
+using GymManagement.Application;
+using GymManagement.Infrastructure;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Добавляем сервисы в контейнер
 builder.Services.AddControllers();                   // Поддержка контроллеров
-builder.Services.AddEndpointsApiExplorer(); 
+builder.Services.AddEndpointsApiExplorer();
+builder.Services
+    .AddApplication()
+    .AddInfrastructure();
 // Конечные точки API Explorer
 builder.Services.AddSwaggerGen(c =>
 {

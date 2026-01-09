@@ -36,3 +36,9 @@ C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Api\
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Api\obj\Debug\net8.0\GymManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Api\bin\Debug\net8.0\GymManagement.Infrastructure.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Api\bin\Debug\net8.0\GymManagement.Infrastructure.pdb
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Api\bin\Debug\net8.0\ErrorOr.dll

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XO/P9vTuRkk=",
+  "dgSpecHash": "lL3XooNIkoQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\energ\\RiderProjects\\TestRider\\GymTestProjectCleanArc\\GymManagement.Application\\GymManagement.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\energ\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\energ\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\energ\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\energ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

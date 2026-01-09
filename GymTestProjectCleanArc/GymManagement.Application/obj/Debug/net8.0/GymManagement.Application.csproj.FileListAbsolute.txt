@@ -10,3 +10,4 @@ C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Appl
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\refint\GymManagement.Application.dll
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.pdb
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\ref\GymManagement.Application.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Application\obj\Debug\net8.0\GymManagement.Application.csproj.AssemblyReference.cache
