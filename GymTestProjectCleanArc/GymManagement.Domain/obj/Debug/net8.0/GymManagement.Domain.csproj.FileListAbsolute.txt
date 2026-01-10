@@ -10,3 +10,5 @@ C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Doma
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Domain\obj\Debug\net8.0\refint\GymManagement.Domain.dll
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.pdb
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Domain\obj\Debug\net8.0\ref\GymManagement.Domain.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.runtimeconfig.json
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.genruntimeconfig.cache

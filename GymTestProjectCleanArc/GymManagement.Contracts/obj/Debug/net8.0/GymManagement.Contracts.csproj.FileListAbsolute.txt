@@ -10,3 +10,5 @@ C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Cont
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Contracts\obj\Debug\net8.0\refint\GymManagement.Contracts.dll
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.pdb
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Contracts\obj\Debug\net8.0\ref\GymManagement.Contracts.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Contracts\bin\Debug\net8.0\GymManagement.Contracts.runtimeconfig.json
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Contracts\obj\Debug\net8.0\GymManagement.Contracts.genruntimeconfig.cache

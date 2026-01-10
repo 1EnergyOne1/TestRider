@@ -11,3 +11,10 @@ C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Infr
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.pdb
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Infrastructure\obj\Debug\net8.0\ref\GymManagement.Infrastructure.dll
 C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Application.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Domain.dll
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Application.pdb
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Domain.pdb
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Infrastructure\obj\Debug\net8.0\GymManag.01D5B840.Up2Date
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Infrastructure.runtimeconfig.json
+C:\Users\energ\RiderProjects\TestRider\GymTestProjectCleanArc\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.genruntimeconfig.cache
