@@ -1,0 +1,176 @@
+﻿# Binaries for programs and libraries
+bin/
+obj/
+out/
+build/
+
+# Visual Studio files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.user
+*.cache
+*.lock.json
+*.pdb
+*.exe
+*.dll
+*.pdb
+*.runtimeconfig.json
+*.deps.json
+*.log
+*.mdf
+*.ldf
+*.bak
+*.sdf
+*.local.db
+*.dbmdl
+*.Publish.xml
+*.psscache
+*.resharper.*
+Thumbs.db
+Desktop.ini
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.VSMDI
+*.tmp
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# ReSharper generated files
+_ReSharper*/
+*.ReSharper
+*.resharper
+resharper.*.dotSettings.user
+
+# MS Test files
+TestResults
+coverage.*
+*.Coverage
+*.coveragexml
+*.coveragejson
+Local.testsettings
+TraceAndTestImpact.log
+*.testsettings
+TestResult.xml
+*.testrunconfig
+*.runsettings
+TempPE
+Packages/
+TestResults/*.trx
+*.lastcodeanalysissucceeded
+
+# SQL Server files
+App_Data/*.mdf
+App_Data/*.ldf
+
+# MySQL files
+*.sqlstate
+
+# MongoDB files
+_localdb*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# DotCover files
+*.dotCover
+
+# Installshield output folder (InstallShield dev env)
+Express/
+
+# DocProject binaries
+DocProject/buildhelp/
+DocProject/Help/*.HM* DocProject/Help/*.CHM DocProject/Help/*.HX* DocProject/Help/Samples/*.*
+
+# Windows generated file
+ehthmb.info
+
+# Backup & report files from converting .NET Core projects to msbuild
+Backup*
+TransformationLogs*
+
+# Strong Name private key files
+*.snk
+
+# Visual Studio LightSwitch build output
+GeneratedArtifacts/
+_Pvt_Extensions/
+ModelManifest.xml
+
+# Visual Studio Marketplace Cache Directory
+marketplace
+
+# Office Temp Files
+~*
+
+# Solution-level packages
+packages/*
+!packages/repositories.config
+
+# Angular CLI cache
+node_modules/
+
+# React Native cache
+android/app/src/main/assets/index.android.bundle
+android/app/src/main/assets/index.android.bundle.meta
+android/app/src/main/assets/index.android.map
+ios/**/*.bundle
+ios/**/*.bundle.meta
+ios/**/*.map
+
+# Blazor specific ignores
+BlazorWebAssemblyDebugProxy.js
+BlazorWebAssemblyDebugProxy.dll
+BlazorWebAssemblyDebugProxy.pdb
+blazorwetestclient.js
+*.browserlink
+*.blazorwasm.debugproxy.js
+*.blazorwasm.debugproxy.dll
+*.blazorwasm.debugproxy.pdb
+BlazorWebAssemblyDebugProxy.exe
+BlazorWebAssemblyDebugProxy.runtimeconfig.json
+BlazorWebAssemblyDebugProxy.deps.json
+BlazorWebAssemblyDebugProxy.pdb
+BlazorWebAssemblyDebugProxy.ico
+BlazorWebAssemblyDebugProxy.url
+BlazorWebAssemblyDebugProxy.manifest
+BlazorWebAssemblyDebugProxy.manifest.json
+BlazorWebAssemblyDebugProxy.xml
+BlazorWebAssemblyDebugProxy.html
+BlazorWebAssemblyDebugProxy.htm
+BlazorWebAssemblyDebugProxy.txt
+BlazorWebAssemblyDebugProxy.png
+BlazorWebAssemblyDebugProxy.css
+BlazorWebAssemblyDebugProxy.js.map
+BlazorWebAssemblyDebugProxy.surrogate.html
+BlazorWebAssemblyDebugProxy.surrogate.htm
+BlazorWebAssemblyDebugProxy.surrogate.txt
+BlazorWebAssemblyDebugProxy.surrogate.css
+BlazorWebAssemblyDebugProxy.surrogate.js
+BlazorWebAssemblyDebugProxy.surrogate.js.map
+BlazorWebAssemblyDebugProxy.surrogate.png
+BlazorWebAssemblyDebugProxy.surrogate.xml
+BlazorWebAssemblyDebugProxy.surrogate.htm
+BlazorWebAssemblyDebugProxy.surrogate.html
+BlazorWebAssemblyDebugProxy.surrogate.txt
+BlazorWebAssemblyDebugProxy.surrogate.css
+BlazorWebAssemblyDebugProxy.surrogate.js
+BlazorWebAssemblyDebugProxy.surrogate.js.map
+BlazorWebAssemblyDebugProxy.surrogate.png
+BlazorWebAssemblyDebugProxy.surrogate.xml
