@@ -11,8 +11,8 @@ public static class DependencyInjection
     public static IServiceCollection AddInfrastructure(this IServiceCollection services)
     {
         services.AddDbContext<GymManagementDbContext>(options =>
-            //options.UseNpgsql("Server=PostgreSQL 18;Port=5432;Database=GymManagement;User Id=postgres;Password=1"));
-            options.UseSqlite("Data Source=GymManagement.db"));
+            options.UseNpgsql("Server=localhost;Port=5432;Database=GymManagement;User Id=postgres;Password=1"));
+            //options.UseSqlite("Data Source=GymManagement.db"));
         services.AddScoped<ISubscriptionsRepository, SubscriptionsRepository>();
         return services;
     }

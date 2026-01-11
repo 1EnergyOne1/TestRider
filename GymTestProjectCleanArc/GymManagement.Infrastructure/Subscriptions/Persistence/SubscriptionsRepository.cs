@@ -21,7 +21,6 @@ public class SubscriptionsRepository: ISubscriptionsRepository
 
     public async Task<Subscription?> GetByIdAsync(Guid subscriptionId)
     {
-        var s = await _dbContext.Subscriptions.ToArrayAsync();
-        return null;
+        return await _dbContext.Subscriptions.FindAsync(subscriptionId);
     }
 }
